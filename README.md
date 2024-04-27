@@ -8,4 +8,4 @@ Software Engineering Academic
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-gabriel-da-silva-dos-santos-59aa21241) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johagabriel2024&show_icons=true&theme=radical)
-<div>
+</div>
