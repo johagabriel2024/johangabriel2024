@@ -4,9 +4,6 @@ Brazil
 
 Software Engineering Academic
 
-</a>
-</div>
-
 <div>
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johan_gabriel81?igsh=MTdvY2o5eWZlczR3ag%3D%3D&utm_source=qr) 
